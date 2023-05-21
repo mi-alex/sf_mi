@@ -1,3 +1,4 @@
+# Dont download to GIT
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
