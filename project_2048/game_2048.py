@@ -33,7 +33,7 @@ def you_win(board) -> bool: # проверяет, выиграл ли игрок
     else:
         return(False)
 
-def next_number(board) -> list: # очередной "ход" машины: ставит на пустое место число 2 или 4
+def next_number(board): # очередной "ход" машины: ставит на пустое место число 2 или 4
     choose_num = np.random.randint(10)
     random_num = np.random.randint(count_zero(board))
     for line_num in range(4):
