@@ -1,7 +1,7 @@
 import numpy as np
 
 def bisection_predict(number:int=1, max_num:int=1) -> int:
-    """Угадываем число методом половинного деления отрезка
+    """Угадываем число методом деления отрезка пополам
 
     Args:
         number (int, optional): Загаданное число. Умолчание = 1.
