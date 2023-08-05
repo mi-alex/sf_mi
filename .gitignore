@@ -128,40 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-SkillFactory/PY_10_Введение_в_Pandas/Введение в Pandas.ipynb
-SkillFactory/PY_10_Введение_в_Pandas/data/citibike-tripdata.csv
-SkillFactory/PY_10_Введение_в_Pandas/data/countries.csv
-SkillFactory/PY_10_Введение_в_Pandas/data/melb_data.csv
-SkillFactory/PY_10_Введение_в_Pandas/data/students_performance.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/Продвинутые приемы Pandas.ipynb
-SkillFactory/PY_13_Визуализация_данных/data/country_vaccinations.csv
-SkillFactory/PY_13_Визуализация_данных/data/covid_data.csv
 .vscode/settings.json
-SkillFactory/PY_11_Базовые_приемы_работы_с_данными/data/citibike-tripdata.csv
-SkillFactory/PY_11_Базовые_приемы_работы_с_данными/Базовые приемы Pandas.ipynb
-project_sheikh/sheikh.py
-project_0/fromsite.py
-project_2048/game_test.py
-SkillFactory/PY_11_Базовые_приемы_работы_с_данными/data/countries.csv
-SkillFactory/PY_11_Базовые_приемы_работы_с_данными/data/dates.csv
-SkillFactory/PY_11_Базовые_приемы_работы_с_данными/data/melb_data_fe.csv
-SkillFactory/PY_11_Базовые_приемы_работы_с_данными/data/melb_data_ps.csv
-SkillFactory/PY_11_Базовые_приемы_работы_с_данными/data/melb_data.csv
-SkillFactory/PY_11_Базовые_приемы_работы_с_данными/data/movies.csv
-SkillFactory/PY_11_Базовые_приемы_работы_с_данными/data/ratings1.csv
-SkillFactory/PY_11_Базовые_приемы_работы_с_данными/data/ratings2.csv
-SkillFactory/PY_11_Базовые_приемы_работы_с_данными/data/ufo.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/data/covid_data.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/data/dates.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/data/movies.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/data/orders.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/data/products.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/data/ratings_movies.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/data/ratings1.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/data/ratings2.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/data/result_xls.xls
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/data/result.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/users/text1.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/users/text2.csv
-SkillFactory/PY_12_Продвинутые_приемы_Pandas/users/text3.csv
-SkillFactory/PY_13_Визуализация_данных/Визуализация данных.ipynb
+
