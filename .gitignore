@@ -1,6 +1,7 @@
 # Dont download to GIT
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.vscode/
 *.py[cod]
 *$py.class
 
