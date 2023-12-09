@@ -132,3 +132,21 @@ dmypy.json
 .vscode/settings.json
 
 Project_1/data/dst-3.0_16_1_hh_database.csv
+Eurosib/Отправка ЗнА.xml
+.gitignore
+Eurosib/Отправка локации  ТЛ.xml
+SkillFactory/PY_10_Введение_в_Pandas/new_menu_good.xml
+SkillFactory/PY_10_Введение_в_Pandas/new_menu.xml
+SkillFactory/PY_10_Введение_в_Pandas/recipes.csv
+SkillFactory/PY_10_Введение_в_Pandas/data/countries.txt
+SkillFactory/PY_10_Введение_в_Pandas/data/ErrorEnCoding.csv
+SkillFactory/PY_10_Введение_в_Pandas/data/grades.xlsx
+SkillFactory/PY_10_Введение_в_Pandas/data/menu.xml
+SkillFactory/PY_10_Введение_в_Pandas/data/new_recipes.json
+SkillFactory/PY_10_Введение_в_Pandas/data/solarpower.csv
+SkillFactory/PY_10_Введение_в_Pandas/data/result.xlsx
+SkillFactory/PY_10_Введение_в_Pandas/data/solarpower.zip
+SkillFactory/PY_10_Введение_в_Pandas/data/students_performance.zip
+SkillFactory/PY_10_Введение_в_Pandas/data/recipes.json
+SkillFactory/PY_10_Введение_в_Pandas/data/ratings_movies.xlsx
+SkillFactory/PY_10_Введение_в_Pandas/data/out.zip
